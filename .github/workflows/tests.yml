@@ -27,6 +27,7 @@ jobs:
           - 18
           - 19
           - 20
+          - 21
           - ""
       fail-fast: false
     runs-on: ${{ matrix.os }}
